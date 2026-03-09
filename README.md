@@ -26,6 +26,7 @@ The goal of this assignment is to practice using developer tools such as Git, Gi
 Tyla Rochele 
 
 ## Feature Update 
-This change was made from a feature update 
+This change was made from a feature update
 
-This project was completed using GitHub mobile app
+
+# This project was completed using GitHub mobile app#
