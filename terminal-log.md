@@ -41,3 +41,6 @@ git checkout feature-update
 
 git checkout main
 git merge feature-update
+
+# example: list files
+ls
