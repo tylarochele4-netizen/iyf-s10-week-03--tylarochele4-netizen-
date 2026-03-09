@@ -24,3 +24,6 @@ The goal of this assignment is to practice using developer tools such as Git, Gi
 ## Author
 
 Tyla Rochele 
+
+## Feature Update 
+This change was made from a feature update 
