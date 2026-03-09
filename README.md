@@ -29,4 +29,4 @@ Tyla Rochele
 This change was made from a feature update
 
 
-# This project was completed using GitHub mobile app#
+# This project was completed using GitHub mobile app
